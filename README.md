@@ -1,10 +1,10 @@
 <div align="center">
 
-# Rioba Ramadhan Mwita
+# Rioba Mwita
 
-### Geospatial Specialist • GIS Analyst • Software Developer
+### Geospatial Specialist • Software Developer
 
-Transforming spatial data into intelligent digital solutions.
+Transforming ideas and data into digital solutions.
 
 </div>
 
@@ -12,21 +12,13 @@ Transforming spatial data into intelligent digital solutions.
 
 ## About
 
-I am a Geospatial Specialist with expertise in Geographic Information Systems (GIS), Remote Sensing, Land Surveying, and Software Development. My work focuses on building practical geospatial solutions through spatial analysis, web technologies, automation, and modern software engineering to support environmental management, infrastructure planning, and decision-making.
+Geospatial Engineer and Software Developer with experience in Cartography, Land Surveying and Web Development. Helping individuals and organizations with practical solutions.
 
 ---
 
 ## Core Expertise
 
-🛰 Geographic Information Systems (GIS)
-
-🌍 Remote Sensing & Earth Observation
-
-📍 Spatial Analysis & Cartography
-
-📐 Cadastral, Geodetic & Topographic Surveying
-
-🌱 Environmental & Land Use Analysis
+🛰 Geographic Information Systems
 
 💻 Full-Stack Software Development
 
@@ -56,40 +48,14 @@ Git • GitHub • VS Code • REST APIs
 
 ---
 
-## Featured Work
-
-• GIS Web Applications
-
-• Environmental Suitability Analysis
-
-• Land Use & Land Cover Change Detection
-
-• Survey Data Management Systems
-
-• Spatial Decision Support Systems
-
-• Interactive Mapping Solutions
-
----
-
-## Current Focus
-
-- Developing modern geospatial web applications
-- GIS automation and spatial workflows
-- Open-source geospatial technologies
-- Spatial databases and web mapping
-- Building software that solves real-world problems
-
----
-
 ## Philosophy
 
-> Build technology that makes spatial information accessible, reliable, and useful.
+> Build technology that makes information accessible, reliable, and useful.
 
 ---
 
 <div align="center">
 
-*"Data becomes valuable when location gives it context."*
+*"Combining cartography and digital development to solve challenges all across."*
 
 </div>
