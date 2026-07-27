@@ -12,7 +12,7 @@ Transforming ideas and data into digital solutions.
 
 ## About
 
-Geospatial Engineer and Software Developer with experience in Cartography, Land Surveying and Web Development. Helping individuals and organizations with practical solutions.
+Geospatial Engineer and Software Developer with experience in Cartography, Land Surveying and Software Development. Helping individuals and organizations with practical solutions.
 
 ---
 
