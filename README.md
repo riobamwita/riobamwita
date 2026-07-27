@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rioba Mwita
+# RIOBA MWITA
 
 ### Geospatial Specialist • Software Developer
 
