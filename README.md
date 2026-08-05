@@ -2,7 +2,7 @@
 
 # RIOBA MWITA
 
-### Geospatial Specialist • Software Developer
+### GIS Specialist • Software Developer
 
 Transforming ideas and data into digital solutions.
 
