@@ -10,7 +10,7 @@ Transforming ideas and data into digital solutions.
 
 ---
 
-## About
+## About Me
 
 Geospatial Engineer and Software Developer with experience in Cartography, Land Surveying and Software Development. Helping individuals and organizations with practical solutions.
 
