@@ -2,7 +2,7 @@
 
 # RIOBA MWITA
 
-### GIS Specialist • Software Developer
+### GIS Specialist & Software Developer
 
 Transforming ideas and data into digital solutions.
 
@@ -12,7 +12,7 @@ Transforming ideas and data into digital solutions.
 
 ## About Me
 
-Geospatial Engineer and Software Developer with experience in Cartography, Land Surveying and Software Development. Helping individuals and organizations with practical solutions.
+Experienced in Cartography, Land Surveying and Software Development. Helping individuals and organizations with practical solutions.
 
 ---
 
